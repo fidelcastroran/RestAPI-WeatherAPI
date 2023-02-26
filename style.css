@@ -1,5 +1,5 @@
 body {
-    background-color: #eef2e2;
+    background-color: #482c04;
     margin: auto;
     text-align: center;
     width: 100%;
@@ -14,7 +14,7 @@ body {
   }
   
   .card {
-    background-image: linear-gradient(to right, #85ffbd, #fffb7d);
+    background-image: linear-gradient(to right, #c78c16, #7d8cff);
   }
   .card-header {
     background-color: #f3f2c9;
